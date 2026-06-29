@@ -15,3 +15,14 @@ Law enforcement agencies manage massive volumes of crime data collected from mul
 The lack of an intelligent and unified system limits proactive policing, delays investigations, and makes it challenging to uncover patterns across crimes, offenders, victims, locations, and socio-economic factors.
 
 Drishti addresses this challenge by providing an AI-powered conversational interface combined with advanced crime analytics, enabling investigators to access information quickly and make evidence-based decisions.
+
+## Project Objectives
+
+The primary objectives of Drishti are:
+
+- Enable investigators to query crime records using natural language.
+- Reduce the time required to search and analyze crime data.
+- Discover hidden relationships between crimes, offenders, victims, and locations.
+- Identify crime trends, hotspots, and emerging patterns.
+- Support investigators with AI-powered insights and decision assistance.
+- Provide transparent and evidence-backed responses for better decision-making.
