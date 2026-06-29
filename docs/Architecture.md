@@ -1,3 +1,17 @@
-# System Architecture
+# Drishti System Architecture
 
-This document will describe the architecture of the Drishti platform, including the frontend, backend, AI components, database, analytics engine, and deployment workflow.
+## 1. High-Level Workflow
+
+## 2. System Components
+
+## 3. User Flow
+
+## 4. Backend Workflow
+
+## 5. AI Workflow
+
+## 6. Database Workflow
+
+## 7. Crime Analytics Workflow
+
+## 8. Deployment Architecture
