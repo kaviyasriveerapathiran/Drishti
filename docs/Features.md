@@ -1,14 +1,29 @@
-# Drishti - Planned Features
+# Drishti - Feature Roadmap
 
-This document contains the list of features planned for the Drishti platform.
+## Version 1 (Hackathon MVP)
 
-The features are divided into three categories:
+The first version of Drishti will focus on delivering a complete, working AI-powered investigation assistant.
 
-## Must Have
-(Core features required for the first working version.)
+### Planned Features
 
-## Nice to Have
-(Features to implement if time permits.)
+- Conversational AI Chatbot
+- Crime Record Search
+- Case Summary Generation
+- Crime Trend Visualization
+- Criminal Relationship Graph
+- Crime Hotspot Map
+- PDF Report Generation
+- Voice Input
+- Role-Based Login
+
+---
+
+## Version 2
+
+(To be decided.)
+
+---
 
 ## Future Scope
-(Advanced features that can be added after the hackathon.)
+
+(To be decided.)
