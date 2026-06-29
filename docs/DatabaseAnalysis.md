@@ -25,3 +25,22 @@ Each record in this table represents a single criminal case (FIR) and serves as 
 Other tables such as complainants, victims, accused persons, investigation details, courts, and crime classifications are connected to CaseMaster.
 
 Without CaseMaster, the remaining tables cannot be linked together into a complete investigation.
+
+## Important Information Stored in CaseMaster
+
+The CaseMaster table contains the primary details of every criminal case.
+
+Examples of important information include:
+
+- FIR Number
+- Crime Number
+- Registration Date
+- Police Station
+- Crime Category
+- Crime Type
+- District
+- Case Status
+- Brief Facts of the Case
+- Geographic Location (if available)
+
+These fields are expected to be frequently used by the chatbot while answering investigator queries.
